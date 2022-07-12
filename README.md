@@ -23,7 +23,7 @@ Per modificare questa repository in MakeCode.
 Questa immagine mostra il codice blocchi dall'ultima conferma in master.
 Quest'immagine potrebbe impiegare qualche minuto per l'aggiornamento.
 
-![Un'immagine renderizzata dei blocchi](https://github.com/adrirobot/ks0310-keyestudio-traffic-light/raw/master/.github/makecode/blocks.png)
+![Un'immagine renderizzata dei blocchi](https://github.com/adrirobot/ks0310-keyestudio-traffic-light/blocks.png)
 
 #### Metadati (usati per la ricerca, il rendering)
 
