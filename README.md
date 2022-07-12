@@ -2,6 +2,7 @@
 > Apri questa pagina in [https://adrirobot.github.io/ks0310-keyestudio-traffic-light/](https://adrirobot.github.io/ks0310-keyestudio-traffic-light/)
 
 [Articolo completo] (https://www.adrirobot.it/ks0310-keyestudio-traffic-light-module/)
+
 ![foto] (https://www.adrirobot.it/wp-content/uploads/2022/06/Ks0310_traffic_light_module-microbit-01.jpg)
 
 ## Usa come Estensione
